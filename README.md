@@ -1,5 +1,6 @@
 ﻿# ScreenPicture
 自动屏幕截图
+*************************************************************************************************************
 ![image](https://github.com/Zero-YC/ScreenPicture/blob/master/Image/ShowMyProject.png)
 项目说明：
 项目应用MFC框架，实现屏幕自动截图功能，运行稳定，占用资源微小，适合测试软件以及硬件时使用
